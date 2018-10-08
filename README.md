@@ -1,9 +1,10 @@
-# PHP Permissions Class v.1.0
-A lightweight permissions class, with memory caching features
+# PHP Permissions Class
+A lightweight permissions class, with memory caching features.
 * Handles text and wildcards (\*)
 * Handles group and user permissions
 * Handles inheritance
-Used for instance in [FeatherBB](http://featherbb.org)
+
+This library is used in [FeatherBB](http://featherbb.org)
 
 ### Requirements
 * PHP 5.3
